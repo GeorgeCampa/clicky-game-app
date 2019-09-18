@@ -1,6 +1,10 @@
+Create a memory game with React. This assignment required to break up tye application's UI into components, manage component state, and respond to user events.
+
+Deployed on Heroku, https://clicky-game-app82.herokuapp.com/
 
 
-
+Git Hub Pages, https://github.com/GeorgeCampa/clicky-game-app.git
+Git Hub ReadMe, https://georgecampa.github.io/clicky-game-app/
 
 
 INSTRUCTIONS:
